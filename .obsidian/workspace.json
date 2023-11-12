@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "43cdb292ace4ead1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b11beb6ba2e6249e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ed8624ea8b4aabc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StudyPlan/Git/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c01f2ecba0ddd27e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StudyPlan/자료구조 & 알고리즘/Merge_Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e8f269786bd1390",
+    "type": "split",
+    "children": [
+      {
+        "id": "79202ea2b4fe8448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bea4b085cf9e3b08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3119297784fdb2b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TodoList",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e24620e30984be68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "478dba41f6c3379e",
+    "type": "split",
+    "children": [
+      {
+        "id": "45da9e0c9150fa87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88069de74b61bc57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "419f763ea0a12af5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "StudyPlan/Git/Git.md"
+              }
+            }
+          },
+          {
+            "id": "cf1496a747b56dac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "StudyPlan/Git/Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ae319e57d4701fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "StudyPlan/Git/Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "670313b96e9b2b18",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2ed8624ea8b4aabc",
+  "lastOpenFiles": [
+    "StudyPlan/ComputerStructure/03강_소스코드와 명령어.md",
+    "StudyPlan/ComputerStructure/02강_이진법.md",
+    "StudyPlan/ComputerStructure/$ComputerStructure.md",
+    "StudyPlan/ComputerStructure/01강_컴퓨터구조.md",
+    "image/Pasted image 20231112202243.png",
+    "StudyPlan/자료구조 & 알고리즘/Singly_Linked_List.md",
+    "image/Pasted image 20231112192829.png",
+    "Data/ETL_PIPELINE.md",
+    "image",
+    "image/Pasted image 20231112201724.png",
+    "image/Pasted image 20231112201006.png",
+    "image/Pasted image 20231112194747.png",
+    "image/Pasted image 20231112194543.png",
+    "StudyPlan/자료구조 & 알고리즘/$DSAL.md",
+    "StudyPlan/Network/Network.md",
+    "image/Pasted image 20231112193041.png",
+    "image/Pasted image 20231112193117.png",
+    "image/Pasted image 20231112193527.png",
+    "image/Pasted image 20231112193701.png",
+    "README.md",
+    "StudyPlan/BasicMath/BasicMath.md",
+    "StudyPlan/API/API.md",
+    "Data/Chart.canvas",
+    "StudyPlan/자료구조 & 알고리즘/Merge_Sort.md",
+    "StudyPlan/Git/Git.md",
+    "Untitled.canvas",
+    "Data/DataAnalysis.md",
+    "StudyPlan/Physics",
+    "StudyPlan/REST",
+    "StudyPlan/Untitled.md",
+    "StudyPlan/OS",
+    "StudyPlan/Git",
+    "StudyPlan/BasicMath",
+    "StudyPlan/API",
+    "StudyPlan/자료구조 & 알고리즘",
+    "StudyPlan/Network",
+    "StudyPlan/ComputerStructure",
+    "StudyPlan/OS/OS.md",
+    "StudyPlan/Physics/Physics.md",
+    "StudyPlan/REST/REST.md",
+    "StudyPlan/PlanChart.canvas",
+    "2023-10-05.md",
+    "Untitled.md",
+    "DayPlanner.md"
+  ]
+}
