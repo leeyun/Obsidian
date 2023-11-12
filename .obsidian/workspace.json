@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StudyPlan/Git/Git.md",
+                "file": "StudyPlan/ComputerStructure/03강_소스코드와 명령어.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StudyPlan/Git/Git.md"
+                "file": "StudyPlan/ComputerStructure/03강_소스코드와 명령어.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "StudyPlan/Git/Git.md",
+                "file": "StudyPlan/ComputerStructure/03강_소스코드와 명령어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StudyPlan/Git/Git.md",
+                "file": "StudyPlan/ComputerStructure/03강_소스코드와 명령어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,12 +169,14 @@
   },
   "active": "2ed8624ea8b4aabc",
   "lastOpenFiles": [
-    "StudyPlan/ComputerStructure/03강_소스코드와 명령어.md",
     "StudyPlan/ComputerStructure/02강_이진법.md",
-    "StudyPlan/ComputerStructure/$ComputerStructure.md",
     "StudyPlan/ComputerStructure/01강_컴퓨터구조.md",
-    "image/Pasted image 20231112202243.png",
+    "StudyPlan/ComputerStructure/$ComputerStructure.md",
     "StudyPlan/자료구조 & 알고리즘/Singly_Linked_List.md",
+    "StudyPlan/자료구조 & 알고리즘/Merge_Sort.md",
+    "StudyPlan/Git/Git.md",
+    "StudyPlan/ComputerStructure/03강_소스코드와 명령어.md",
+    "image/Pasted image 20231112202243.png",
     "image/Pasted image 20231112192829.png",
     "Data/ETL_PIPELINE.md",
     "image",
@@ -192,8 +194,6 @@
     "StudyPlan/BasicMath/BasicMath.md",
     "StudyPlan/API/API.md",
     "Data/Chart.canvas",
-    "StudyPlan/자료구조 & 알고리즘/Merge_Sort.md",
-    "StudyPlan/Git/Git.md",
     "Untitled.canvas",
     "Data/DataAnalysis.md",
     "StudyPlan/Physics",
